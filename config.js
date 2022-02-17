@@ -73,20 +73,20 @@ const CONFIG = {
     {
       id: '4',
       name: 'Facebook',
-      icon: '',
-      link: '',
+      icon: 'facebook',
+      link: 'https://facebook.com',
     },
     {
       id: '5',
       name: 'Twitter',
-      icon: '',
-      link: '',
+      icon: 'twitter',
+      link: 'https://twitter.com',
     },
     {
       id: '6',
       name: 'Twitch',
-      icon: '',
-      link: '',
+      icon: 'twitch',
+      link: 'https://twitch.com',
     },
   ],
 
