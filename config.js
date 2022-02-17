@@ -49,43 +49,44 @@ const CONFIG = {
   // ┌┐ ┬ ┬┌┬┐┌┬┐┌─┐┌┐┌┌─┐
   // ├┴┐│ │ │  │ │ ││││└─┐
   // └─┘└─┘ ┴  ┴ └─┘┘└┘└─┘
-
+  //https://lucide.dev/
+  
   firstButtonsContainer: [
     {
       id: '1',
-      name: 'Github',
-      icon: 'github',
-      link: 'https://github.com/',
+      name: 'Youtube',
+      icon: 'youtube',
+      link: 'https://youtube.com/',
     },
     {
       id: '2',
-      name: 'Mail',
-      icon: 'mail',
-      link: 'https://mail.protonmail.com/',
+      name: 'Reddit',
+      icon: 'glasses',
+      link: 'https://reddit.com/',
     },
     {
       id: '3',
-      name: 'Todoist',
-      icon: 'trello',
-      link: 'https://todoist.com',
+      name: '4Chan',
+      icon: 'layout-list',
+      link: 'https://4chan.org',
     },
     {
       id: '4',
-      name: 'Calendar',
-      icon: 'calendar',
-      link: 'https://calendar.google.com/calendar/r',
+      name: 'Facebook',
+      icon: '',
+      link: '',
     },
     {
       id: '5',
-      name: 'Reddit',
-      icon: 'glasses',
-      link: 'https://reddit.com',
+      name: 'Twitter',
+      icon: '',
+      link: '',
     },
     {
       id: '6',
-      name: 'Odysee',
-      icon: 'youtube',
-      link: 'https://odysee.com/',
+      name: 'Twitch',
+      icon: '',
+      link: '',
     },
   ],
 
@@ -135,46 +136,46 @@ const CONFIG = {
   // First Links Container
   firstlistsContainer: [
     {
-      icon: 'music',
+      icon: 'euro',
       id: '1',
       links: [
         {
-          name: 'Inspirational',
-          link: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ',
+          name: 'Prisjakt',
+          link: 'https://prisjakt.nu',
         },
         {
-          name: 'Classic',
-          link: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ',
+          name: 'Amazon',
+          link: 'https://amazon.se',
         },
         {
-          name: 'Oldies',
-          link: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ',
+          name: 'Tradera',
+          link: 'https://tradera.com/',
         },
         {
-          name: 'Rock',
-          link: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ',
+          name: 'Ebay',
+          link: 'https://ebay.com',
         },
       ],
     },
     {
-      icon: 'coffee',
+      icon: 'briefcase',
       id: '2',
       links: [
         {
-          name: 'Linkedin',
-          link: 'https://www.linkedin.com',
+          name: 'Github',
+          link: 'https://github.com',
         },
         {
-          name: 'Dribbble',
-          link: 'https://www.dribbble.com',
+          name: 'Docs',
+          link: 'https://docs.google.com/document/u/0/',
         },
         {
-          name: 'Trello',
-          link: 'https://www.trello.com',
+          name: 'Calendar',
+          link: 'https://calendar.google.com',
         },
         {
-          name: 'Slack',
-          link: 'https://www.slack.com',
+          name: 'Keep',
+          link: 'https://keep.google.com/u/0/',
         },
       ],
     },
