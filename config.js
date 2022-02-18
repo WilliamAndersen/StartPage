@@ -56,37 +56,37 @@ const CONFIG = {
       id: '1',
       name: 'Youtube',
       icon: 'youtube',
-      link: 'https://youtube.com/',
+      link: 'https://www.youtube.com/',
     },
     {
       id: '2',
       name: 'Reddit',
       icon: 'glasses',
-      link: 'https://reddit.com/',
+      link: 'https://www.reddit.com/',
     },
     {
       id: '3',
       name: 'Twitter',
       icon: 'twitter',
-      link: 'https://twitter.com',
+      link: 'https://www.twitter.com',
     },
     {
       id: '4',
       name: 'Facebook',
       icon: 'facebook',
-      link: 'https://facebook.com',
+      link: 'https://www.facebook.com',
     },
     {
       id: '5',
       name: '4Chan',
       icon: 'layout-list',
-      link: 'https://4chan.org',
+      link: 'https://www.4chan.org',
     },
     {
       id: '6',
       name: 'Twitch',
       icon: 'twitch',
-      link: 'https://twitch.com',
+      link: 'https://www.twitch.com',
     },
   ],
 
@@ -141,19 +141,19 @@ const CONFIG = {
       links: [
         {
           name: 'Prisjakt',
-          link: 'https://prisjakt.nu',
+          link: 'https://www.prisjakt.nu',
         },
         {
           name: 'Amazon',
-          link: 'https://amazon.se',
+          link: 'https://www.amazon.se',
         },
         {
           name: 'Tradera',
-          link: 'https://tradera.com/',
+          link: 'https://www.tradera.com/',
         },
         {
           name: 'Ebay',
-          link: 'https://ebay.com',
+          link: 'https://www.ebay.com',
         },
       ],
     },
@@ -163,19 +163,19 @@ const CONFIG = {
       links: [
         {
           name: 'Github',
-          link: 'https://github.com',
+          link: 'https://www.github.com',
         },
         {
           name: 'Docs',
-          link: 'https://docs.google.com/document/u/0/',
+          link: 'https://www.docs.google.com/document/u/0/',
         },
         {
           name: 'Calendar',
-          link: 'https://calendar.google.com',
+          link: 'https://www.calendar.google.com',
         },
         {
           name: 'Keep',
-          link: 'https://keep.google.com/u/0/',
+          link: 'https://www.keep.google.com/u/0/',
         },
       ],
     },
