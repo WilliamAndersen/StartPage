@@ -66,9 +66,9 @@ const CONFIG = {
     },
     {
       id: '3',
-      name: '4Chan',
-      icon: 'layout-list',
-      link: 'https://4chan.org',
+      name: 'Twitter',
+      icon: 'twitter',
+      link: 'https://twitter.com',
     },
     {
       id: '4',
@@ -78,9 +78,9 @@ const CONFIG = {
     },
     {
       id: '5',
-      name: 'Twitter',
-      icon: 'twitter',
-      link: 'https://twitter.com',
+      name: '4Chan',
+      icon: 'layout-list',
+      link: 'https://4chan.org',
     },
     {
       id: '6',
