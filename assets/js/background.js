@@ -6,4 +6,6 @@ function getRandomImage(imgAr, path) {
     var img = imgAr[ num ];
     var imgStr = '<img src="' + path + img + '" alt = "">';
     document.write(imgStr); document.close();
+    
+    document.getElementById('imgbcg').innerText = imgStr;
 }
