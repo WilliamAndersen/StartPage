@@ -85,7 +85,8 @@ body {
 }
 
 .withImageBackground {
-  background-image: var(--imgcol), var(--imgbg);
+  /*background-image: var(--imgcol), var(--imgbg);*/
+  background-image: var(--imgcol), var(#imgbcg);
   background-size: cover;
 }
 
