@@ -30,7 +30,8 @@
   --cards: #e4e6e6; /* Cards color */
 
   /* Image background  */
-  --imgbg: url(assets/background.jpg); /* Image URL */
+  /*--imgbg: url(assets/background.jpg); /* Image URL */
+  --imgbg: url(#imgbcg);
   --imgcol: linear-gradient(
     rgba(255, 255, 255, 0.7),
     rgba(255, 255, 255, 0.7)
@@ -85,8 +86,7 @@ body {
 }
 
 .withImageBackground {
-  /*background-image: var(--imgcol), var(--imgbg);*/
-  background-image: var(--imgcol), var(#imgbcg);
+  background-image: var(--imgcol), var(--imgbg);
   background-size: cover;
 }
 
