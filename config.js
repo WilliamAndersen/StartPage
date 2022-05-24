@@ -174,7 +174,7 @@ const CONFIG = {
           link: 'https://www.calendar.google.com',
         },
         {
-          name: 'Keep',
+          name: 'Notes',
           link: 'https://www.keep.google.com/u/0/',
         },
       ],
